@@ -32,28 +32,28 @@
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1536945864208,
+            "changeTime": 1536945864208,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1536947097131,
-            "changeTime": 1536947097131,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
+            "state": "u"
         }
     ],
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1536945917164,
             "changeTime": 1536945917164,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
@@ -80,7 +80,7 @@
             "changeTime": 1536938887840,
             "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -320,7 +320,7 @@
             "changeTime": 1536942439510,
             "contentHash": "b5bad32f2b064b764a110126f45cfa2561c7f223",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -358,15 +358,15 @@
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 182,
             "modifiedTime": 1536946000518,
             "changeTime": 1536946000518,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
         }
     ],
     [
@@ -484,7 +484,7 @@
             "changeTime": 1536938716637,
             "contentHash": "b377025363d7706339248d20aa32ea41a11a517f",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -499,7 +499,7 @@
             "changeTime": 1536938716638,
             "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -514,7 +514,7 @@
             "changeTime": 1536938716638,
             "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -529,7 +529,7 @@
             "changeTime": 1536938716638,
             "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -544,7 +544,7 @@
             "changeTime": 1536938716639,
             "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -559,7 +559,7 @@
             "changeTime": 1536938716639,
             "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -574,7 +574,7 @@
             "changeTime": 1536938716639,
             "contentHash": "29a1e5d3eeaa43c310327c323fc51bac55de247a",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -589,7 +589,7 @@
             "changeTime": 1536938716639,
             "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -604,7 +604,7 @@
             "changeTime": 1536938716640,
             "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -619,7 +619,7 @@
             "changeTime": 1536938716640,
             "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -634,7 +634,7 @@
             "changeTime": 1536938716640,
             "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -649,7 +649,7 @@
             "changeTime": 1536938716640,
             "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -664,7 +664,7 @@
             "changeTime": 1536938716640,
             "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -679,7 +679,7 @@
             "changeTime": 1536938716641,
             "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -694,7 +694,7 @@
             "changeTime": 1536938716641,
             "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -709,7 +709,7 @@
             "changeTime": 1536938716642,
             "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -724,7 +724,7 @@
             "changeTime": 1536938716642,
             "contentHash": "9d2f6c78b600962d19202740171268557046a498",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -739,7 +739,7 @@
             "changeTime": 1536938716642,
             "contentHash": "eb38892ccd65bc69d70897b8069ae5e433b2df8b",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -754,7 +754,7 @@
             "changeTime": 1536938716642,
             "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -769,7 +769,7 @@
             "changeTime": 1536938716643,
             "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -784,7 +784,7 @@
             "changeTime": 1536938716643,
             "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -799,7 +799,7 @@
             "changeTime": 1536938716643,
             "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -814,7 +814,7 @@
             "changeTime": 1536938716644,
             "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -829,7 +829,7 @@
             "changeTime": 1536938716644,
             "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -844,7 +844,7 @@
             "changeTime": 1536938716644,
             "contentHash": "f8f81ab4cce6d2e54a1ddcf948fd72509610680c",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -859,7 +859,7 @@
             "changeTime": 1536938716645,
             "contentHash": "865775b6cbae076f26e1ceaa271e96db30ba700f",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -874,7 +874,7 @@
             "changeTime": 1536938716645,
             "contentHash": "045ca616a8bfca7f2f8c3e089838b1b40d376c11",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -889,7 +889,7 @@
             "changeTime": 1536938716645,
             "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -904,7 +904,7 @@
             "changeTime": 1536938716645,
             "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -919,7 +919,7 @@
             "changeTime": 1536938716646,
             "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -934,7 +934,7 @@
             "changeTime": 1536938716646,
             "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -949,7 +949,7 @@
             "changeTime": 1536938716646,
             "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -964,7 +964,7 @@
             "changeTime": 1536938716647,
             "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -979,7 +979,7 @@
             "changeTime": 1536938716647,
             "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -994,7 +994,7 @@
             "changeTime": 1536938716647,
             "contentHash": "6cb0cb263777ce3dfdd3be11036a77e8a019da78",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1009,7 +1009,7 @@
             "changeTime": 1536938716648,
             "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1024,7 +1024,7 @@
             "changeTime": 1536938716648,
             "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1039,7 +1039,7 @@
             "changeTime": 1536938716649,
             "contentHash": "4cd86db581f52363b344a7c71d5e7b0cd2b53ac9",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1054,7 +1054,7 @@
             "changeTime": 1536938716649,
             "contentHash": "78397d265f930d78ba4b80939c185d843ca0159d",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1069,7 +1069,7 @@
             "changeTime": 1536938716649,
             "contentHash": "9bc2732ea281e6a67366c1baf323a5da873ce01a",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1084,7 +1084,7 @@
             "changeTime": 1536938716650,
             "contentHash": "52e53fa2623bfc1b6db9c16f1a27f903fc19fcfa",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1099,7 +1099,7 @@
             "changeTime": 1536938716650,
             "contentHash": "5f6812369bed74a878f8accbc8424a16ea3d22b5",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1114,7 +1114,7 @@
             "changeTime": 1536938716650,
             "contentHash": "ae9648d035d739cc9d6410b71a5fb48123e6463f",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1468,214 +1468,6 @@
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 210,
-            "modifiedTime": 1536947097132,
-            "changeTime": 1536947097132,
-            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 1259,
-            "modifiedTime": 1536947097201,
-            "changeTime": 1536947097201,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 696,
-            "modifiedTime": 1536947097202,
-            "changeTime": 1536947097202,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 2464,
-            "modifiedTime": 1536947097202,
-            "changeTime": 1536947097202,
-            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 1466,
-            "modifiedTime": 1536947097202,
-            "changeTime": 1536947097202,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 618,
-            "modifiedTime": 1536947097203,
-            "changeTime": 1536947097203,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 398589,
-            "modifiedTime": 1536947097203,
-            "changeTime": 1536947097203,
-            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 759894,
-            "modifiedTime": 1536947097204,
-            "changeTime": 1536947097204,
-            "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 400314,
-            "modifiedTime": 1536947097205,
-            "changeTime": 1536947097205,
-            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 759986,
-            "modifiedTime": 1536947097206,
-            "changeTime": 1536947097206,
-            "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 14106,
-            "modifiedTime": 1536947097207,
-            "changeTime": 1536947097207,
-            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 140540,
-            "modifiedTime": 1536947097207,
-            "changeTime": 1536947097207,
-            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 191113,
-            "modifiedTime": 1536947097207,
-            "changeTime": 1536947097207,
-            "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1536947097200,
-            "changeTime": 1536947097200,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet/images",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1536947097203,
-            "changeTime": 1536947097203,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
-        }
-    ],
-    [
-        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/staticresources/leaflet",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1536947097207,
-            "changeTime": 1536947097207,
-            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a"
         }
     ]
 ]
