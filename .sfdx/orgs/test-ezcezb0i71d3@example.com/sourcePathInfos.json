@@ -2,14 +2,14 @@
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1536895061882,
             "changeTime": 1536895061882,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1536895061882,
             "changeTime": 1536895061882,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1536941250579,
+            "changeTime": 1536941250579,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1536895579095,
-            "changeTime": 1536895579095,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "state": "u"
         }
     ],
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1536895061882,
             "changeTime": 1536895061882,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/sriram.venkatraman/Documents/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1536895093048,
             "changeTime": 1536895093048,
             "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
-            "modifiedTime": 1536895579072,
+            "modifiedTime": 1536938887840,
             "changeTime": 1536895579072,
-            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -92,10 +92,10 @@
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9582,
-            "modifiedTime": 1536895579082,
-            "changeTime": 1536895579082,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "size": 9718,
+            "modifiedTime": 1536942439523,
+            "changeTime": 1536942439523,
+            "contentHash": "fe2f0050acefc6fb14680c59aece3862dd5309f8"
         }
     ],
     [
@@ -105,10 +105,10 @@
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9630,
-            "modifiedTime": 1536895579087,
-            "changeTime": 1536895579087,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "size": 9766,
+            "modifiedTime": 1536942439535,
+            "changeTime": 1536942439535,
+            "contentHash": "810b77a41a864f4ea914cef8a2320dd186556fc1"
         }
     ],
     [
@@ -118,10 +118,10 @@
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9582,
-            "modifiedTime": 1536895579090,
-            "changeTime": 1536895579090,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "size": 9718,
+            "modifiedTime": 1536942439548,
+            "changeTime": 1536942439548,
+            "contentHash": "cdc4f0b32b0d3d78072af51bf1418ead4a26c508"
         }
     ],
     [
@@ -131,10 +131,10 @@
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9630,
-            "modifiedTime": 1536895579094,
-            "changeTime": 1536895579094,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "size": 9766,
+            "modifiedTime": 1536942439559,
+            "changeTime": 1536942439559,
+            "contentHash": "f4097fcb5a368b0c55d11ddb352c092c536fdae1"
         }
     ],
     [
@@ -144,10 +144,10 @@
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 366,
-            "modifiedTime": 1536895579095,
-            "changeTime": 1536895579095,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "size": 522,
+            "modifiedTime": 1536942439563,
+            "changeTime": 1536942439563,
+            "contentHash": "426d293ff9dfa9924738af137cf6bf549bfdc7be"
         }
     ],
     [
@@ -157,62 +157,140 @@
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1536895579072,
-            "changeTime": 1536895579072,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "size": 1280,
+            "modifiedTime": 1536938716905,
+            "changeTime": 1536938716905,
+            "contentHash": "bfd837c31714ac93bd124f417af03e00cc54688b"
         }
     ],
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1536938716650,
+            "changeTime": 1536938716650,
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1536895579070,
-            "changeTime": 1536895579070,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "state": "u"
         }
     ],
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1536895579070,
             "changeTime": 1536895579070,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
-            "modifiedTime": 1536895579094,
+            "modifiedTime": 1536938716908,
             "changeTime": 1536895579094,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1536895579095,
+            "modifiedTime": 1536938716905,
             "changeTime": 1536895579095,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1536941250595,
+            "changeTime": 1536941250595,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/listViews",
+        {
+            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1536938716650,
+            "changeTime": 1536938716650,
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/webLinks",
+        {
+            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/webLinks",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1536938716650,
+            "changeTime": 1536938716650,
+            "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1536941404072,
+            "changeTime": 1536941404072,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1536941250596,
+            "changeTime": 1536941250596,
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sriram.venkatraman/Documents/geolocation/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 323,
+            "modifiedTime": 1536942439510,
+            "changeTime": 1536942439510,
+            "contentHash": "b5bad32f2b064b764a110126f45cfa2561c7f223"
         }
     ]
 ]
